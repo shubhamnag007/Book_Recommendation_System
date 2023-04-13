@@ -1,6 +1,5 @@
 # Book_Recommendation_System
 Build a Book Recommendation System
-![image](https://user-images.githubusercontent.com/99672298/218774741-e591b120-d510-469d-99f4-6f10eeb7b8b7.png)
 ![image](https://user-images.githubusercontent.com/99672298/218774774-a6cf2755-17b5-41cf-ab44-2fdb30b354b9.png)
 ![image](https://user-images.githubusercontent.com/99672298/218774797-7275cdd9-95a7-49d5-9f3d-83ccff2ec685.png)
 ![image](https://user-images.githubusercontent.com/99672298/218774816-13b24f91-e6e3-49bd-9f4e-1dc1cb92b1f9.png)
